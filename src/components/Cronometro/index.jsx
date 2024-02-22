@@ -1,5 +1,5 @@
 import { useState } from "react"
-import './style.css'
+import './cronometro.css'
 
 export default function Cronometo() {
     const [second, setSecond] = useState(0);
