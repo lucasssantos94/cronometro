@@ -75,3 +75,15 @@ button {
         font-size: 1.2rem;
     }
 }
+
+@media screen and (width < 960px) {
+    .container {
+        width: 100vw;
+    }
+
+    .buttons {
+        width: 50vw;
+
+    }
+
+}
