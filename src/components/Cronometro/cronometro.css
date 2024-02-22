@@ -78,12 +78,12 @@ button {
 }
 
 @media screen and (481px <=width <=960px) {
-    .container {
+    /* .container {
         width: 100vw;
-    }
+    } */
 
     .buttons {
-        width: 50vw;
+        width: 70vw;
 
     }
 
