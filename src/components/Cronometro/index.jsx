@@ -33,7 +33,8 @@ export default function Cronometo() {
         setSecond(0);
         setMinute(0);
         setHour(0);
-        setTimeout(clearInterval(saveInterval))
+
+        clearInterval(saveInterval)
     }
 
     return (
